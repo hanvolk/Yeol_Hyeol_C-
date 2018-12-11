@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1521005763 source:c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\chapter04\information_hiding\main.cpp
+	<iostream>
+	"point.h"
+	"Rectangle.h"
+
+1520995175 c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\chapter04\information_hiding\point.h
+
+1521005785 c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\chapter04\information_hiding\rectangle.h
+	"point.h"
+
+1521005828 source:c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\chapter04\information_hiding\point.cpp
+	<iostream>
+	"point.h"
+
+1521005763 source:c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\chapter04\information_hiding\rectangle.cpp
+	<iostream>
+	"Rectangle.h"
+
+1521264406 source:c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\chapter04\constructor\main.cpp
+	<iostream>
+	"point.h"
+	"Rectangle.h"
+
+1521264406 c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\chapter04\constructor\point.h
+
+1521264406 c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\chapter04\constructor\rectangle.h
+	"point.h"
+
+1521264443 source:c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\chapter04\constructor\point.cpp
+	<iostream>
+	"point.h"
+
+1521278538 source:c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\chapter04\constructor\rectangle.cpp
+	<iostream>
+	"Rectangle.h"
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1522810547 source:c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\chapter04\member_initializer\rectangle\point.cpp
+	<iostream>
+	"Point.h"
+
+1522810377 c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\chapter04\member_initializer\rectangle\point.h
+
+1522810826 source:c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\chapter04\member_initializer\rectangle\rectangle.cpp
+	<iostream>
+	"Rectangle.h"
+
+1522810377 c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\chapter04\member_initializer\rectangle\rectangle.h
+	"Point.h"
+
+1522810900 source:c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\chapter04\member_initializer\rectangle\main.cpp
+	<iostream>
+	"Point.h"
+	"Rectangle.h"
+

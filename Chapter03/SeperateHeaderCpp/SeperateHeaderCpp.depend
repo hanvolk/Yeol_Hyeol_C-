@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1520563053 source:c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\chapter03\seperateheadercpp\main.cpp
+	<iostream>
+	"Car.h"
+
+1520563053 c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\chapter03\seperateheadercpp\car.h
+
+1520563227 source:c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\chapter03\seperateheadercpp\car.cpp
+	<iostream>
+	<cstring>
+	"Car.h"
+

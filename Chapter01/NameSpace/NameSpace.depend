@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1517969154 source:c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\namespace\definefuncs.cpp
+	<iostream>
+	"DefineFunc.h"
+
+1517969154 c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\namespace\definefunc.h
+
+1517969154 source:c:\users\hanvo\onedrive\문서\공부_연습장\c++\열혈c++\namespace\main.cpp
+	<iostream>
+	"DefineFunc.h"
+
